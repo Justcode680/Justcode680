@@ -60,8 +60,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/justcode680/justcode680/output/snake.svg" alt="Snake animation" />
-
-###
