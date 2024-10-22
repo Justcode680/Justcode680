@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justcode</h1>
 
-![](tumblr_e3bb428b6b3698da6f006bbae2592f2a_014ffaf0_1280.webp)
+![](header.webp)
 
 <h3 align="center">Beginner web developer learning HTML, CSS, and JavaScript. Passionate about building responsive websites and eager to improve through projects.</h3>
 
